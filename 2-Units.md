@@ -49,3 +49,23 @@ in which the following units appear: volt (`V`), ampere (`A`), siemens (`S`), wa
 In many cases the resistance of a conductor in ohms is approximately constant within a certain range of voltages, temperatures, and other parameters. These are called linear resistors.
 
 In _alternating current circuits_, _electrical impedance_ is also measured in ohms.
+
+## Coulomb
+
+The _coulomb_ (symbol: `C`) is the International _System of Units_ (SI) unit of electric charge.
+
+The unit is the amount of electric charge (symbol: `Q` or `q`) transported by a constant electric current of `1` ampere (`A`) in `1` second (`s`):
+
+$$
+{\displaystyle 1~{\text{C}}=1~{\text{A}}\times 1~{\text{s}}}{\displaystyle 1~{\text{C}}=1~{\text{A}}\times 1~{\text{s}}}
+$$
+
+Thus, it is also the amount of excess charge on a capacitor of one farad charged to a potential difference of one volt:
+
+$$
+{\displaystyle 1~{\text{C}}=1~{\text{F}}\times 1~{\text{V}}}{\displaystyle 1~{\text{C}}=1~{\text{F}}\times 1~{\text{V}}}
+$$
+
+Under the 2019 redefinition of the SI base units, which took effect on 20 May 2019, the elementary charge (the charge of the proton and of the electron, but also of other fundamental particles) is exactly `1.602176634×10−19` coulombs.
+
+Thus the coulomb is the charge of exactly `1/(1.602176634×10−19`) elementary charges, which is approximately `6.2415090744×1018` elementary charges (`1.036×10−5 mol`). The same number of electrons has the same magnitude but opposite sign of charge, that is, a charge of `−1 C`.
